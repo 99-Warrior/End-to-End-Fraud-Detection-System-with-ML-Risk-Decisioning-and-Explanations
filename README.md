@@ -1,3 +1,18 @@
+#Project Structure
+fraud-detection-risk-decision-system/
+│
+├── notebooks/
+│ └── fraud_detection_databricks.ipynb
+│
+├── data/
+│ └── sample_data.csv
+│
+├── images/
+│ ├── dashboard.png
+│ └── output.png
+│
+├── requirements.txt
+├── README.md
 #  Fraud Detection & Risk Decisioning System
 
 ##  Overview
