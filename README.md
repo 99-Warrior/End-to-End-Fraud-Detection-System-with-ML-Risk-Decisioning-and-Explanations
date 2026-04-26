@@ -23,11 +23,12 @@ This project demonstrates an end-to-end fraud detection system using machine lea
 ##  Key Features
 
 - Feature engineering (velocity, device trust, location mismatch)
+- Rule-based Anomaly Detection with API calling for AI generated insights
 - ML-based fraud prediction
 - Risk scoring (0–100)
 - Risk categorization (Low / Medium / High)
 - Decision engine (Allow / OTP / Block)
-- Explainability layer based on transaction behavior
+- Explainability layer based on transaction behavior(API-based)
 
 ---
 
