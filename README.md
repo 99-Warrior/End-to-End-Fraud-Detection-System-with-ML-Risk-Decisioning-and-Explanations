@@ -34,7 +34,7 @@ This project demonstrates an end-to-end fraud detection system using machine lea
 
 ## Architecture
 
-Data → Feature Engineering → ML Model → Risk Score → Decision → Explanation → Dashboard
+Data → Feature Engineering → Anomaly Detection → ML Model → Risk Score → Decision → Explanation → Dashboard
 
 ---
 
